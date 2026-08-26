@@ -1,0 +1,3 @@
+name: AgentChat
+description: 零成本浏览器 AI 并行编排 Agent：8 个免费网页模型一键调度（Gemini/ChatGPT/Claude/Qwen/Kimi/MiniMax/Doubao/MiMo/DeepSeek），支持单 Provider 自动降级链、多任务并行派发 + PDF 合成、串行 6 步深度管道。
+order: 6
